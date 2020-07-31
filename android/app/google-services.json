@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "285603956425",
+    "firebase_url": "https://mealie-d8a6c.firebaseio.com",
+    "project_id": "mealie-d8a6c",
+    "storage_bucket": "mealie-d8a6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285603956425:android:f0e60b079e66239a80af18",
+        "android_client_info": {
+          "package_name": "com.nagarro.mealie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285603956425-e8urj5ge7920cdomdv0q6546ffscjvri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUsGM_zpoqtw6lCEt-RwuW-_zPdyn4T-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285603956425-e8urj5ge7920cdomdv0q6546ffscjvri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
